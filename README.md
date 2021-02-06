@@ -6,8 +6,6 @@ Paper link: https://arxiv.org/abs/2005.11079
 
 Author's code: https://github.com/THUDM/GRAND
 
-Contributor: Hengrui Zhang ([@hengruizhang98](https://github.com/hengruizhang98))
-
 ## Dependecies
 - Python 3.7
 - PyTorch 1.7.1
