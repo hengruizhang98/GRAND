@@ -103,7 +103,7 @@ class GRAND(nn.Module):
     input_dropout: float
         Dropout rate of the input layer of a MLP
     hidden_dropout: float
-        Dropout rate of the hidden layer of a MLPx
+        Dropout rate of the hidden layer of a MLP
     batchnorm: bool, optional
         If True, use batch normalization.
 
